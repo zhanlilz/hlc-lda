@@ -4,7 +4,7 @@
 # number of classes in the output raster using the Latent Dirichlet Allocation
 # (LDA) model. 
 # 
-# Zhan Li, zhan.li@canada.ca
+# Zhan Li, zhanli1986@gmail.com
 # Created: Wed Oct  3 13:53:01 PDT 2018
 
 import sys

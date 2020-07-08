@@ -3,7 +3,7 @@
 # Convert the probabilities of latent topics from a trained LDA model to
 # probabilities of targeted harmonized land cover classes. 
 # 
-# Zhan Li, zhan.li@canada.ca
+# Zhan Li, zhanli1986@gmail.com
 # Created: Fri May  3 22:48:40 PDT 2019
 
 import argparse
